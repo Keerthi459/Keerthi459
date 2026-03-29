@@ -6,21 +6,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/keerthi-p-x">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://keerthi--portfolio.web.app/">
-    <img src="https://img.shields.io/badge/Portfolio-%23FF5722.svg?style=flat-square&logo=google-chrome&logoColor=white"/>
-  </a>
-  <a href="mailto:keerthiga020@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Keerthi459">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white"/>
-  </a>
-</p>
-
 ---
 
 ## 🌟 About Me
@@ -49,43 +34,43 @@ class Keerthi:
 
 **🎨 Frontend**
 
-![HTML5](https://img.shields.io/badge/HTML5-555555?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-555555?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-555555?style=flat-square&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-555555?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-555555?style=flat-square&logo=react&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-outline?style=social&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-outline?style=social&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-outline?style=social&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-outline?style=social&logo=typescript)
+![React](https://img.shields.io/badge/React-outline?style=social&logo=react)
 
 **⚙️ Backend**
 
-![Python](https://img.shields.io/badge/Python-555555?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-555555?style=flat-square&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-555555?style=flat-square&logo=node.js&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-555555?style=flat-square&logo=php&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-555555?style=flat-square&logo=flask&logoColor=white)
+![Python](https://img.shields.io/badge/Python-outline?style=social&logo=python)
+![FastAPI](https://img.shields.io/badge/FastAPI-outline?style=social&logo=fastapi)
+![Node.js](https://img.shields.io/badge/Node.js-outline?style=social&logo=node.js)
+![PHP](https://img.shields.io/badge/PHP-outline?style=social&logo=php)
+![Flask](https://img.shields.io/badge/Flask-outline?style=social&logo=flask)
 
 **🗄️ Database**
 
-![MySQL](https://img.shields.io/badge/MySQL-555555?style=flat-square&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-outline?style=social&logo=mysql)
 
 **🤖 Machine Learning & Data**
 
-![Jupyter](https://img.shields.io/badge/Jupyter-555555?style=flat-square&logo=jupyter&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-555555?style=flat-square&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-555555?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-555555?style=flat-square&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-outline?style=social&logo=jupyter)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-outline?style=social&logo=scikit-learn)
+![NumPy](https://img.shields.io/badge/NumPy-outline?style=social&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-outline?style=social&logo=pandas)
 
 **☁️ Currently Learning**
 
-![AWS](https://img.shields.io/badge/AWS-555555?style=flat-square&logo=amazon-aws&logoColor=white)
-![React](https://img.shields.io/badge/React-555555?style=flat-square&logo=react&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-555555?style=flat-square&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-555555?style=flat-square&logo=node.js&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-outline?style=social&logo=amazon-aws)
+![React](https://img.shields.io/badge/React-outline?style=social&logo=react)
+![FastAPI](https://img.shields.io/badge/FastAPI-outline?style=social&logo=fastapi)
+![Node.js](https://img.shields.io/badge/Node.js-outline?style=social&logo=node.js)
 
 **🔧 Tools**
 
-![Git](https://img.shields.io/badge/Git-555555?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-555555?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-555555?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-outline?style=social&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-outline?style=social&logo=github)
+![VS Code](https://img.shields.io/badge/VS%20Code-outline?style=social&logo=visual-studio-code)
 
 ---
 
@@ -104,11 +89,12 @@ class Keerthi:
 ## 📬 Let's Connect!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/keerthi-p-x"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  &nbsp;&nbsp;
-  <a href="https://keerthi--portfolio.web.app/"><img src="https://img.shields.io/badge/View%20Portfolio-%23FF5722.svg?style=flat-square&logo=google-chrome&logoColor=white"/></a>
-  &nbsp;&nbsp;
-  <a href="mailto:keerthiga020@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-%23D14836.svg?style=flat-square&logo=gmail&logoColor=white"/></a>
+
+🔗 [LinkedIn](https://www.linkedin.com/in/keerthi-p-x) &nbsp;|&nbsp;
+🌐 [Portfolio](https://keerthi--portfolio.web.app/) &nbsp;|&nbsp;
+📧 [keerthiga020@gmail.com](mailto:keerthiga020@gmail.com) &nbsp;|&nbsp;
+🐙 [GitHub](https://github.com/Keerthi459)
+
 </p>
 
 <p align="center">
