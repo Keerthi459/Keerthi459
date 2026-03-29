@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer+%F0%9F%9A%80;Machine+Learning+Explorer+%F0%9F%A4%96;Open+to+Internships+%26+Opportunities+%F0%9F%92%BC;Building+real-world+web+apps+%F0%9F%8C%90" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer+%F0%9F%9A%80;Machine+Learning+Explorer+%F0%9F%A4%96;Open+to+Jobs+%26+Opportunities+%F0%9F%92%BC;Building+real-world+web+apps+%F0%9F%8C%90" alt="Typing SVG" />
   </a>
 </p>
 
@@ -20,8 +20,8 @@ class Keerthi:
     skills      = ["Full Stack Development", "Machine Learning", "UI Design"]
     
     currently   = "Building impactful web apps & exploring ML"
-    learning    = ["AWS", "React", "FastAPI", "Node.js", "Frameworks"]
-    open_to     = ["Jobs", "Opportunities", "Open Source"]
+    learning    = ["AWS","AI","Frameworks"]
+    open_to     = ["Jobs", "Opportunities"]
     
     fun_fact    = "I love turning ideas into real, working products 💡"
 ```
@@ -62,9 +62,7 @@ class Keerthi:
 **☁️ Currently Learning**
 
 ![AWS](https://img.shields.io/badge/AWS-outline?style=social&logo=amazon-aws)
-![React](https://img.shields.io/badge/React-outline?style=social&logo=react)
-![FastAPI](https://img.shields.io/badge/FastAPI-outline?style=social&logo=fastapi)
-![Node.js](https://img.shields.io/badge/Node.js-outline?style=social&logo=node.js)
+![AI](https://img.shields.io/badge/AI-outline?style=social&logo=ai)
 
 **🔧 Tools**
 
@@ -106,4 +104,4 @@ class Keerthi:
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
 
 <p align="center"><b>⭐ If you like my work, consider starring my repositories! ⭐</b></p>
-<p align="center"><i>Thanks for visiting — let's build something amazing together! 🚀</i></p>
+<p align="center"><i>Thanks for visiting — let's build something amazing together!</i></p>
